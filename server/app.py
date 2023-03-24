@@ -204,4 +204,4 @@ def get_something():
 
 # Run Server
 if __name__ == '__main__':
-    app.run(host="192.168.1.4", port=5000)
+    app.run(host="127.0.0.1", port=6060)
